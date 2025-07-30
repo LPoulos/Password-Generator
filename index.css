@@ -1,0 +1,55 @@
+body{
+    background-color: #1C1C1C;
+    padding: 50px;
+    
+}
+#title-white {
+    color: white; 
+    font: 40px, 'avenir', sans-serif;
+    font-weight: 800;
+}
+#title-green {
+    color: #4ADF86; 
+    font: 40px, 'avenir', sans-serif;
+    font-weight: 800;
+}
+#subtitle-grey{
+    color: #9CA3AF; 
+    font: 20px, 'avenir', sans-serif;
+    font-weight: 500;
+}
+
+#generate-button{
+    background-color: #4ADF86;
+    color: white;
+    font: 16px, 'avenir', sans-serif;
+    font-weight: 600;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.password-display, .password-display2{
+    display: inline-flex;
+    width: 211px;
+    height: 40px;
+    background-color: #273549;
+    color: #4ADF86;
+    margin-right: 50px;
+    margin-top: 25px;
+    justify-content: center;
+    align-items: center;
+}
+#password-text, #password-text2{
+    font: 12px, 'avenir', sans-serif;
+    font-weight: 600;
+}
+.container{
+    background-color: #1F2937;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
